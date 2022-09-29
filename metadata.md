@@ -4,17 +4,17 @@ solution-title: Troubleshooting
 type: Troubleshooting
 index: true
 git-repo: https://github.com/AdobeDocs/experience-cloud-kcs.ja-JP
-source-git-commit: fd6d5b238753d067c34e71f283f1c92cb7d53237
+source-git-commit: 0f546139887bd42346c58b8aa0ef76015688601c
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 96%
+source-wordcount: '128'
+ht-degree: 85%
 
 ---
 
 
 # 社内用のメタデータ
 
-metadata.md ファイルには、リポジトリー内にあるユーザーガイドの TOC.md ファイルにパススルーされる、リポジトリーレベルのメタデータが含まれています。任意のユーザーガイドの metadata.md コンテンツを変更したい場合は、任意の TOC.md ファイル内でおこないます。
+この [!DNL metadata.md] ファイルには、ユーザーガイドに渡されるリポジトリレベルのメタデータが含まれています [!DNL TOC.md] ファイルをリポジトリに格納します。 任意のユーザーガイドの metadata.md コンテンツを変更したい場合は、任意の TOC.md ファイル内でおこないます。
 
 | メタデータ | 説明 |
 |--- |--- |
